@@ -1,1 +1,17 @@
 
+Problem  Statement: Image recognition
+Let’s focus on ILSVRC2010 dataset for this 
+Click the “Browse the training images ..” link under the “Data” section. 
+Each of you picks 3 categories from the list above.
+You download 100 images from each category picked.
+Look at the image and the corresponding annotation. Understand what the annotation describes.
+You should be able to randomly pick 10 images and display them in a jupyter notebook.
+
+I have chosen 3 classes:
+n04254680: soccer ball
+n04118538 : rugby ball
+n04540053: volley ball 
+I have downloaded these datasets from ImageNet. Each category contains almost 1500 images .
+I have randomly selected 10 images from these 3 classes and represented it with their class name
+ex:
+https://image-net.org/data/winter21_whole/n04118538.tar
