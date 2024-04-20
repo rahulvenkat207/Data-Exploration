@@ -1,1 +1,5 @@
 object localization
+Let’s now focus on the ILSVRC2012 dataset. Find the link in the imagenet website.
+Understand the annotation data for each image. You should find classification as well as bounding box information
+Pick 3 categories. Plot the annotations including the bounding box on randomly selected 10 images from each category.
+Given that a model is producing label + localization (i.e bounding box) information, how will you compare it against the ground truth. Matching labels is straightforward. But when the model is also giving a bounding box output, how is the quality of the bounding box evaluated? Hint : Find the bounding box overlap percentage. Write a python function which takes two bounding boxes as input and outputs the overlap percentage.
