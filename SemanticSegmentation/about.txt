@@ -1,1 +1,7 @@
-Semantic Segmentation
+Problem 4 : Semantic Segmentation 
+Understand the PASCAL VOC dataset http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#data
+Understand the definition of semantic segmentation 
+Download few images and understand the annotation format 
+Randomly select a few images and plot the annotations
+How will you define IOU for a segmentation task? How mid it different from the IOU for an object detection task?
+
